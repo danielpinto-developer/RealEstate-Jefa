@@ -3,3 +3,8 @@ body {
     background-size: cover;
     opacity: 0.9;
 }
+
+.home-intro {
+    display: flex;
+    align-items: center;
+}
